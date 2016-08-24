@@ -1,0 +1,263 @@
+D [2016-08-05 09:30:40.086] Save Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\config.ini
+D [2016-08-05 09:30:40.230] Save Building Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\building.ini
+D [2016-08-05 09:30:40.315] Read Building Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\building.ini
+D [2016-08-05 09:30:40.331] Read Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\config.ini
+D [2016-08-05 09:30:40.440] Apply Config
+D [2016-08-05 09:30:40.582] Disable GUI Controls
+D [2016-08-05 09:30:42.029] Redraw MyBot Window
+D [2016-08-05 09:30:42.060] Searching MEmu Window: Title = 'MEmu 2.', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+D [2016-08-05 09:30:42.060] MEmu Window not found
+D [2016-08-05 09:30:42.060] Android Emulator not launched
+D [2016-08-05 09:30:42.060] btnStart: Current Android Window Handle: 0
+D [2016-08-05 09:30:42.060] Found 0 WerFault Windows with title 'MEmu.exe'
+D [2016-08-05 09:30:42.060] Searching MEmu Window: Title = 'MEmu 2.', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+D [2016-08-05 09:30:42.076] MEmu Window not found
+D [2016-08-05 09:30:42.076] Android Emulator not launched
+D [2016-08-05 09:30:42.076] ObjGet("winmgmts:\\.\root\cimv2")
+D [2016-08-05 09:30:42.076] WMI Query: Select * from Win32_Process where ExecutablePath like "%C:\\Program Files (x86)\\MEMU\\MEmu\\MEmu.exe%"
+D [2016-08-05 09:30:42.171] Process by CommandLine not found: C:\Program Files (x86)\MEMU\MEmu\MEmu.exe MEmu
+D [2016-08-05 09:30:42.171] ObjGet("winmgmts:\\.\root\cimv2")
+D [2016-08-05 09:30:42.171] WMI Query: Select * from Win32_Process where ExecutablePath like "%C:\\Program Files (x86)\\MEMU\\MEmu\\MEmu.exe%"
+D [2016-08-05 09:30:42.249] Process by CommandLine not found: C:\Program Files (x86)\MEMU\MEmu\MEmu.exe
+D [2016-08-05 09:30:42.249] MEmu (MEmu) process not found
+L [2016-08-05 09:30:42.249] Starting MEmu and Clash Of Clans
+D [2016-08-05 09:30:42.265] Searching MEmu Window: Title = 'MEmu 2.', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+D [2016-08-05 09:30:42.265] MEmu Window not found
+D [2016-08-05 09:30:42.265] Android Emulator not launched
+D [2016-08-05 09:30:42.265] ShellExecute: C:\Program Files (x86)\MEMU\MEmu\MEmu.exe MEmu
+D [2016-08-05 09:30:43.438] $PID= 1584
+L [2016-08-05 09:30:43.438] Please wait while MEmu and CoC start...
+D [2016-08-05 09:30:45.917] Searching MEmu Window: Title = 'MEmu 2.', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+D [2016-08-05 09:30:45.948] MEmu Window not found
+D [2016-08-05 09:30:45.948] Android Emulator not launched
+D [2016-08-05 09:30:58.452] Restore bot window to 828, 57, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:31:09.766] MEmu Loaded, took 26.3 seconds to begin.
+D [2016-08-05 09:31:09.774] Searching MEmu Window: Title = 'MEmu 2.', Class = '[CLASS:subWin; INSTANCE:1]', Text = ''
+D [2016-08-05 09:31:09.775] MEmu Window title 'MEmu 2.7.0 - MEmu' not matching 'MEmu 2.' or control
+D [2016-08-05 09:31:09.777] Found 1 possible MEmu windows by title 'MEmu 2.':
+D [2016-08-05 09:31:09.778] 0x00080644: MEmu 2.7.0 - MEmu
+D [2016-08-05 09:31:09.778] Found MEmu Window 'MEmu 2.7.0 - MEmu' (0x00080644) for instance MEmu
+D [2016-08-05 09:31:09.783] Move Android Window 'MEmu 2.7.0 - MEmu' to position: -1, -1
+L [2016-08-05 09:31:09.784] MEmu (MEmu) running in window mode
+D [2016-08-05 09:31:09.790] Updating Android Window 'MEmu 2.7.0 - MEmu' position: 247, 0
+D [2016-08-05 09:31:09.791] Using Window sizes of MEmu 2.6.2
+D [2016-08-05 09:31:09.792] MEmu Tool Bar is visible
+D [2016-08-05 09:31:09.793] Unsupported MEmu screen size of 856 x 728 !
+D [2016-08-05 09:31:09.795] MEmu window resized to 908 x 770
+L [2016-08-05 09:31:15.368] MEmu window resized to work with MyBot
+D [2016-08-05 09:31:15.374] InitiateLayout: MEmu 2.7.0 - MEmu Android-ClientSize: 860 x 732
+D [2016-08-05 09:31:15.375] InitAndroid(False): MEmu
+D [2016-08-05 09:31:16.564] MEmu phone_layout is 2
+D [2016-08-05 09:31:16.567] Using Window sizes of MEmu 2.6.2
+D [2016-08-05 09:31:16.571] MEmu Tool Bar is visible
+D [2016-08-05 09:31:16.572] MEmu Screen Height updated from 768 to 732
+D [2016-08-05 09:31:16.574] MEmu Window Width updated from 911 to 908
+D [2016-08-05 09:31:16.575] MEmu Window Height updated from 804 to 770
+D [2016-08-05 09:31:16.576] Android: MEmu
+D [2016-08-05 09:31:16.577] Android Config: 0
+D [2016-08-05 09:31:16.579] Android Version: 2.7.0
+D [2016-08-05 09:31:16.580] Android Instance: MEmu
+D [2016-08-05 09:31:16.581] Android Window Title: MEmu 2.7.0 - MEmu
+D [2016-08-05 09:31:16.582] Android Program Path: C:\Program Files (x86)\MEMU\MEmu\MEmu.exe
+D [2016-08-05 09:31:16.584] Android Program Parameter: MEmu
+D [2016-08-05 09:31:16.585] Android ADB Path: C:\Program Files (x86)\MEMU\MEmu\adb.exe
+D [2016-08-05 09:31:16.586] Android ADB Device: 127.0.0.1:21503
+D [2016-08-05 09:31:16.587] Android ADB Shared Folder: /mnt/shell/emulated/0/Pictures/
+D [2016-08-05 09:31:16.589] Android ADB Shared Folder on Host: C:\Users\ducthuan\Pictures\MEmu Photo\
+D [2016-08-05 09:31:16.590] Android ADB Shared SubFolder: mybot.run\
+D [2016-08-05 09:31:16.590] Android Mouse Device: Microvirt Virtual Input
+D [2016-08-05 09:31:16.591] Android ADB screencap command enabled: True
+D [2016-08-05 09:31:16.591] Android ADB input command enabled: True
+D [2016-08-05 09:31:16.592] Android ADB Mouse Click enabled: False
+D [2016-08-05 09:31:16.592] Android ADB Click Drag enabled: True
+D [2016-08-05 09:31:16.592] Bot Background Mode for screen capture: enabled
+D [2016-08-05 09:31:16.593] No Focus Tampering: False
+D [2016-08-05 09:31:16.593] InitAndroid(False): MEmu END, initialization successful = True, result = True
+D [2016-08-05 09:31:17.368] ADB shell launched, PID = 6768: root@android:/ # PS1=mybot.run:Android Steady Shell PID=1492
+/system/xbin/renice -20 1492
+/system/xbin/renice -20
+D [2016-08-05 09:31:18.175] MEmu getevent -p: add device 1: /dev/input/event8
+  name:     "Microvirt Virtual Input"
+  events:
+    KEY (0001): 0001  0002  0003  0004  0005  0006  0007  0008 
+                0009  000a  000b  000c  000d  000e  000f  0010 
+                0011  0012  0013  0014  0015  0016  0017  0018 
+                0019  001a  001b  001c  001d  001e  001f  0020 
+                0021  0022  0023  0024  0025  0026  0027  0028 
+                0029  002a  002b  002c  002d  002e  002f  0030 
+                0031  0032  0033  0034  0035  0036  0037  0038 
+                0039  003a  003b  003c  003d  003e  003f  0040 
+                0041  0042  0043  0044  0045  0046  0047  0048 
+                0049  004a  004b  004c  004d  004e  004f  0050 
+                0051  0052  0053  0054  0055  0056  0057  0058 
+                0059  005a  005b  005c  005d  005e  005f  0060 
+                0061  0062  0063  0064  0065  0066  0067  0068 
+                0069  006a  006b  006c  006d  006e  006f  0070 
+                0071  0072  0073  0074  0075  0076  0077  0078 
+                0079  007a  007b  007c  007d  007e  007f  0080 
+                0081  0082  0083  0084  0085  0086  0087  0088 
+                0089  008a  008b  008c  008d  008e  008f  0090 
+                0091  0092  0093  0094  0095  0096  0097  0098 
+                0099  009a  009b  009c  009d  009e  009f  00a0 
+                00a1  00a2  00a3  00a4  00a5  00a6  00a7  00a8 
+                00a9  00aa  00ab  00ac  00ad  00ae  00af  00b0 
+                00b1  00b2  00b3  00b4  00b5  00b6  00b7  00b8 
+                00b9  00ba  00bb  00bc  00bd  00be  00bf  00c0 
+                00c1  00c2  00c3  00c4  00c5  00c6  00c7  00c8 
+                00c9  00ca  00cb  00cc  00cd  00ce  00cf  00d0 
+                00d1  00d2  00d3  00d4  00d5  00d6  00d7  00d8 
+                00d9  00da  00db  00dc  00dd  00de  00df  00e0 
+                00e1  00e2  00e3  00e4  00e5  00e6  00e7  00e8 
+                00e9  00ea  00eb  00ec  00ed  00ee  00ef  00f0 
+                00f1  00f2  00f3  00f4  00f5  00f6  00f7  00f8 
+                00f9  00fa  00fb  00fc  00fd  00fe  00ff  0110 
+                0145  014a 
+    REL (0002): 0006  0008 
+    ABS (0003): 0035  : value 0, min 0, max 860, fuzz 0, flat 0, resolution 0
+                0036  : value 0, min 0, max 732, fuzz 0, flat 0, resolution 0
+                003a  : value 0, min 0, max 0, fuzz 0, flat 0, resolution 0
+  input props:
+    <none>
+could not get driver version for /dev/input/mouse3, Not a typewriter
+add device 2: /dev/input/event7
+  name:     "microvirt via VirtualBox PS/2 mouse"
+  events:
+    KEY (0001): 0110  0111  0112  0113  0114 
+    REL (0002): 0000  0001  0006  0008 
+  input props:
+    <none>
+could not get driver version for /dev/input/mouse2, Not a typewriter
+add device 3: /dev/input/event6
+  name:     "MemuHyperv mouse integration"
+  events:
+    KEY (0001): 0110 
+    ABS (0003): 0000  : value 0, min 0, max 65535, fuzz 0, flat 0, resolution 0
+                0001  : value 0, min 0, max 65535, fuzz 0, flat 0, resolution 0
+  input props:
+    <none>
+add device 4: /dev/input/event1
+  name:     "Sleep Button"
+  events:
+    KEY (0001): 008e 
+  input props:
+    <none>
+add device 5: /dev/input/event0
+  name:     "Power Button"
+  events:
+    KEY (0001): 0074 
+  input props:
+    <none>
+could not get driver version for /dev/input/mouse0, Not a typewriter
+add device 6: /dev/input/event3
+  name:     "ImExPS/2 Generic Explorer Mouse"
+  events:
+    KEY (0001): 0110  0111  0112  0113  0114 
+    REL (0002): 0000  0001  0006  0008 
+  input props:
+    <none>
+add device 7: /dev/input/event2
+  name:     "AT Translated Set 2 keyboard"
+  events:
+    KEY (0001): 0001  0002  0003  0004  0005  0006  0007  0008 
+                0009  000a  000b  000c  000d  000e  000f  0010 
+                0011  0012  0013  0014  0015  0016  0017  0018 
+                0019  001a  001b  001c  001d  001e  001f  0020 
+                0021  0022  0023  0024  0025  0026  0027  0028 
+                0029  002a  002b  002c  002d  002e  002f  0030 
+                0031  0032  0033  0034  0035  0036  0037  0038 
+                0039  003a  003b  003c  003d  003e  003f  0040 
+                0041  0042  0043  0044  0045  0046  0047  0048 
+                0049  004a  004b  004c  004d  004e  004f  0050 
+                0051  0052  0053  0055  0056  0057  0058  0059 
+                005a  005b  005c  005d  005e  005f  0060  0061 
+                0062  0063  0064  0066  0067  0068  0069  006a 
+                006b  006c  006d  006e  006f  0070  0071  0072 
+                0073  0074  0075  0076  0077  0079  007a  007b 
+                007c  007d  007e  007f  0080  008c  008e  008f 
+                009b  009c  009d  009e  009f  00a3  00a4  00a5 
+                00a6  00ac  00ad  00b7  00b8  00b9  00d9  00e2 
+    MSC (0004): 0004 
+    LED (0011): 0000  0001  0002 
+  input props:
+    <none>
+could not get driver version for /dev/input/mice, Not a typewriter
+add device 8: /dev/input/event5
+  name:     "MEmuHyperv Webcam - Integrated "
+  events:
+    KEY (0001): 00d4 
+  input props:
+    <none>
+could not get driver version for /dev/input/mouse1, Not a typewriter
+add device 9: /dev/input/event4
+  name:     "MemuHyperv USB Tablet"
+  events:
+    KEY (0001): 0110  0111  0112  0113  0114 
+    REL (0002): 0006  0008 
+    ABS (0003): 0000  : value 0, min 0, max 32767, fuzz 0, flat 0, resolution 0
+                0001  : value 0, min 0, max 32767, fuzz 0, flat 0, resolution 0
+    MSC (0004): 0004 
+  input props:
+    <none>
+D [2016-08-05 09:31:18.177] Using /dev/input/event8 for mouse events
+D [2016-08-05 09:31:18.178] CheckScreenAndroid: Window size 908 x 770
+D [2016-08-05 09:31:18.476] MEmu font_scale = 1
+D [2016-08-05 09:31:19.753] Updating Android Window 'MEmu 2.7.0 - MEmu' position: 10, 0
+L [2016-08-05 09:31:19.754] Launch Clash of Clans now...
+D [2016-08-05 09:31:20.407] ADB shell terminated, PID = 6768
+D [2016-08-05 09:31:22.181] ADB shell launched, PID = 2920: root@android:/ # PS1=mybot.run:Android Steady Shell PID=1599
+/system/xbin/renice -20 1599
+/system/xbin/renice -20 1529
+D [2016-08-05 09:31:22.182] waitMainScreenMini
+L [2016-08-05 09:31:22.183] Waiting for Main Screen after MEmu restart
+D [2016-08-05 09:31:27.414] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:31:30.913] CoC main window took 8.73 seconds
+L [2016-08-05 09:31:31.023] Zooming Out
+D [2016-08-05 09:31:31.615] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+D [2016-08-05 09:31:34.913] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:31:35.169] ~~~ My Bot v6.2.1 (MEmu) Powered by MyBot.run ~~~~
+L [2016-08-05 09:31:35.180] MyBot.run.exe Executable running on WIN_81  X64
+L [2016-08-05 09:31:35.192] =================== Bot Start ====================
+L [2016-08-05 09:31:35.206] ----------------------  Current Profile: MyVillage ----------------------
+L [2016-08-05 09:31:35.220] Trying to locate Main Screen
+L [2016-08-05 09:31:35.741] Main Screen Located
+L [2016-08-05 09:31:38.164] Detecting your Buildings..
+L [2016-08-05 09:31:39.182] Detecting your Village Theme
+L [2016-08-05 09:31:39.477] Normal Theme detected
+L [2016-08-05 09:31:43.767] Language setting is English: Correct.
+L [2016-08-05 09:31:44.794] Trying to locate Main Screen
+L [2016-08-05 09:31:45.120] Main Screen Located
+D [2016-08-05 09:31:46.126] Restore bot window to 884, 0, caller: GUIControl_WM_NCACTIVATE
+D [2016-08-05 09:31:49.103] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:31:50.415] Village Report
+L [2016-08-05 09:31:50.588]  [T]: 1 364
+L [2016-08-05 09:31:50.754]  [G]: 6 475 000 [E]: 6 905 533 [D]: 39 485 [GEM]: 135
+D [2016-08-05 09:31:52.742] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+D [2016-08-05 09:31:53.567] _RunFunction: ReArm BEGIN
+D [2016-08-05 09:31:53.772] _RunFunction: ReArm END
+D [2016-08-05 09:31:53.773] _RunFunction: CheckTombs BEGIN
+D [2016-08-05 09:31:53.980] _RunFunction: CheckTombs END
+D [2016-08-05 09:31:53.981] _RunFunction: Collect BEGIN
+D [2016-08-05 09:31:55.552] Docking Android Control...
+D [2016-08-05 09:31:55.553] AndroidEmbed: $aPos[] = -32000, -32000, 908, 770
+D [2016-08-05 09:31:55.554] AndroidEmbed: $aPosCtl[] = 4, 34, 860, 732
+D [2016-08-05 09:31:55.555] AndroidEmbed: $aPosParentCtl[] = 4, 34, 860, 732
+D [2016-08-05 09:31:55.555] AndroidEmbed: $frmBotAddH = 77
+D [2016-08-05 09:31:55.557] AndroidEmbed: $aPosFrmBotEx[] = 0, 0, 470, 520
+D [2016-08-05 09:31:55.564] AndroidEmbed: $aPosLog[] = 872, 115, 450, 395
+D [2016-08-05 09:31:55.622] Android Window docked
+D [2016-08-05 09:31:55.626] Redraw MyBot ControlIds (forced): 0x000106BA, 0x000106C2
+D [2016-08-05 09:31:55.627] Control ID 0x000106BA Pos: 872, 115, 450, 327
+D [2016-08-05 09:31:55.628] Control ID 0x000106C2 Pos: 872, 446, 450, 109
+D [2016-08-05 09:31:55.669] Restore bot window to 1, 0, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:31:56.151] Collecting Resources
+D [2016-08-05 09:31:56.168] Shield Android Control (860x732)
+D [2016-08-05 09:31:56.174] AndroidShield updated to active, caller: AndroidShieldCheck
+D [2016-08-05 09:31:59.021] Undocked Android Window
+D [2016-08-05 09:31:59.024] Redraw MyBot Window
+D [2016-08-05 09:32:02.672] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+D [2016-08-05 09:32:06.969] Restore bot window to 928, 0, caller: GUIControl_WM_NCACTIVATE
+L [2016-08-05 09:32:10.441] Searching for a Loot Cart..
+L [2016-08-05 09:32:13.954] Closing My Bot v6.2.1 (MEmu) ...
+D [2016-08-05 09:32:14.013] Save Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\config.ini
+D [2016-08-05 09:32:14.291] Save Building Config E:\MyBot-release-MBR_6.2.1\Profiles\MyVillage\building.ini
+D [2016-08-05 09:32:14.410] ADB shell terminated, PID = 2920
